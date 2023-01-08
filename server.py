@@ -17,7 +17,7 @@ pairs = [
     ['(.*) your', ['He is experienced in web development and related frameworks, and that he is interested in AI. he also like coffee, anime, fitness, and gaming.']],
     ['(.*) Dheeraj', ['He is experienced in web development and related frameworks, and that he is interested in AI. he also like coffee, anime, fitness, and gaming.']],
     ['(.*) creator', ['He is experienced in web development and related frameworks, and that he is interested in AI. he also like coffee, anime, fitness, and gaming.']],
-    ['(.*) project', ['his current projects include a cloud-based blog that uses authentication and data storage in the cloud, and a chatbot for booking a service. He is also working on a project using gesture recognition.']],
+    ['(.*) projects', ['his current projects include a cloud-based blog that uses authentication and data storage in the cloud, and a chatbot for booking a service. He is also working on a project using gesture recognition.']],
     ['(.*) contact', ['You can contact the creator by the profiles given below.']],
     ['(.*)', ['Sorry, I do not understand what you are saying.']]
 ]
